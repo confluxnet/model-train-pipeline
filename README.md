@@ -53,9 +53,9 @@ The script will:
 
 Key parameters that can be adjusted directly in the script:
 - **Model Name:** `"Alibaba-NLP/gte-reranker-modernbert-base"`
-- **Batch Size:** `64` (for both training and evaluation)
-- **Epochs:** `128`
-- **Number of Hard Negatives:** `6`
+- **Batch Size:** `128`
+- **Epochs:** `6`
+- **Number of Hard Negatives:** `5`
 - **Learning Rate and Warmup Ratio:** Configurable in the training arguments
 
 These parameters are defined in the script and can be modified to fit your specific training requirements.
