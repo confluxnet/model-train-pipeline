@@ -14,7 +14,7 @@ The training script performs the following steps:
 ## Repository Structure
 
 ```
-├── train.py           # Main training script
+─ train.py           # Main training script
 ```
 
 ## Requirements
